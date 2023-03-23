@@ -1,0 +1,20 @@
+body{
+    height: 100%;
+    background-color: rgb(66, 66, 196);
+}
+
+.container {
+    color:#ffffff;
+    width: 50%;
+    top:50%;
+    bottom: 50%;
+    /* position: absolute; */
+}
+
+#task {
+    background-color: #ffffff;
+    color:  rgb(66, 66, 196);
+    padding: 5px 10px;
+    align-items: center;
+}
+
